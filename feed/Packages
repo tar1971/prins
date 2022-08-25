@@ -5,7 +5,7 @@ Section: base
 Architecture: all
 MD5Sum: 9f31b3fa9b866866eb6103c160718989
 Size: 257
-Filename: enigma2-plugin-tarek-ajpanel_v6.0.0_all
+Filename: enigma2-plugin-tarek-ajpanel_v6.0.0_all.ipk
 Description: enigma tools
 Maintainer: TA
 Priority: optional
@@ -13,3 +13,20 @@ Source: none
 Homepage: unknown
 OE: enigma2
 License: none
+
+Package: enigma2-plugin-tarek-extensions-xstreamity
+Version: 3.52.20211112
+Depends: enigma tools
+Section: base
+Architecture: all
+MD5Sum: 5b2bddef3bba3c46d763b98da17d4b65
+Size: 257
+Filename: enigma2-plugin-tarek-extensions-xstreamity_3.52.20211112_all.ipk
+Description: enigma tools
+Maintainer: TA
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
