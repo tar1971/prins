@@ -4,7 +4,7 @@ Depends: enigma2
 Section: feedlinks
 Architecture: all
 MD5Sum: 834881e074f6d70e7180419fea59f715
-Size: 1720
+Size: 1.73 MB
 Filename: enigma2-plugin-feedlinks-extensions-jedimakerxtream_tarek_all
 Maintainer: tarek
 Priority: optional
