@@ -4,7 +4,7 @@ Depends: enigma2
 Section: feedlinks
 Architecture: all
 MD5Sum: 834881e074f6d70e7180419fea59f715
-Size: 1.73 MB
+Size: 17300
 Filename: enigma2-plugin-feedlinks-extensions-jedimakerxtream_tarek_all
 Maintainer: tarek
 Priority: optional
@@ -14,19 +14,5 @@ OE: enigma2
 License: none
 
 
-Package: enigma2-plugin-weblinks-cam-bissfeedautokey
-Version: eliesat
-Depends: enigma2
-Section: weblinks
-Architecture: all
-MD5Sum: 5ed113fbacb353ebd7b48595619aeef1
-Size: 1088
-Filename: enigma2-plugin-weblinks-cam-bissfeedautokey_eliesat_all.ipk
-Description: auto update of biss feed key (oe2)
-Maintainer: eliesat
-Priority: optional
-Source: none
-Homepage: unknown
-OE: enigma2
-License: none
+
 
