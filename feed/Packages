@@ -1,15 +1,16 @@
-Package: enigma2-plugin-feedlinks-extensions-jedimakerxtream
-Version: tarek
-Depends: enigma2
-Section: feedlinks
-Architecture: all
-MD5Sum: 834881e074f6d70e7180419fea59f715
-Size: 17300
-Filename: enigma2-plugin-feedlinks-extensions-jedimakerxtream_tarek_all
-Maintainer: tarek
-Priority: optional
-Source: none
-Homepage: unknown
-OE: enigma2
-License: none
 
+Package: enigma2-plugin-extensions-iptosat
+Version: 1.8
+Depends: exteplayer3 , gstplayer
+Section: base
+Architecture: all
+MD5Sum: 425bfdd1daef7a70687df6824663c9b7
+Size: 13638
+Filename: enigma2-plugin-extensions-iptosat_1.8_all.ipk
+Description: enigma2 plugin OE2.0
+Maintainer: ziko-ZR1
+Priority: optional
+Source: https://github.com/ziko-ZR1/IPtoSAT
+Homepage: 
+License: 
+OE: 
